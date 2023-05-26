@@ -1,11 +1,8 @@
-### ✨  Hi there 👋
+### ✨  Hi, I'm Rio! 👋
 
-So glad to see you here. I'm Rio.
+I'm a Software Engineer who loves books 📚, swimming 🏊, and sci-fi movies 🎬.
 
-🔭    I’m currently working throught UpWork as Freelance Software Engineer
+As a versatile 🔭 Full Stack Developer, I've built a strong foundation in both backend and frontend technologies. On the backend, I'm proficient with PHP(Laravel & WordPress), Golang, and databases such as MySQL, PostgreSQL and Redis. On the frontend, I specialize in ReactJS, NextJS, Vue.js, and Nuxt.js, crafting engaging user interfaces. In addition, I have experience with cloud architecture, including AWS and Google Cloud.
 
-💬    Ask me about Laravel, WordPress, Golang & ReactJs
+Currently, I'm a Software Engineer at Sekolah.mu, primarily focusing on frontend development with Vue.js and Nuxt.js.
 
-📫    How to reach me? kindly say hello to **hi-at-rio-dot-my-dot-id**
-
-![Rio's GitHub stats](https://github-readme-stats.vercel.app/api?username=riobahtiar&count_private=true&show_icons=true&theme=omni&hide=contribs)
