@@ -6,3 +6,5 @@ As a versatile 🔭 Full Stack Developer, I've built a strong foundation in both
 
 Currently, I'm a Software Engineer at Sekolah.mu, primarily focusing on frontend development with Vue.js and Nuxt.js.
 
+[![My Skills](https://skillicons.dev/icons?i=ts,html,css,sass,tailwind,bootstrap,vue,nuxt,astro,react,wordpress,laravel,postgres,mysql,redis,gcp,aws)](https://skillicons.dev)
+
